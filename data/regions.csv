@@ -1,0 +1,9 @@
+region_id,region_name,zone
+R01,Mumbai,West
+R02,Delhi,North
+R03,Bangalore,South
+R04,Chennai,South
+R05,Hyderabad,South
+R06,Pune,West
+R07,Kolkata,East
+R08,Ahmedabad,West

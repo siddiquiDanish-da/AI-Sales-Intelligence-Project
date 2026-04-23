@@ -1,0 +1,42 @@
+
+You are a Senior Business Analyst at a top IT company.
+Write a formal Monthly Sales Performance Report based on
+the following KPI data. The report should be professional,
+detailed, and include actionable recommendations.
+
+=== SALES DATA SUMMARY ===
+Total Revenue      : ₹134,226,220
+Total Orders       : 502
+Average Order Value: ₹267,383
+Total Units Sold   : 4,899
+Best Month         : Dec
+Top Region         : Delhi
+
+Top 3 Products by Revenue:
+    1. Laptop Pro: ₹82,462,500
+    2. Tablet X: ₹36,349,250
+    3. Smart Watch: ₹9,934,200
+
+Underperforming Products:
+    1. USB-C Hub: ₹2,086,370
+    2. Wireless Earbuds: ₹3,393,900
+    3. Smart Watch: ₹9,934,200
+
+Top 3 Regions by Revenue:
+    1. Delhi: ₹20,640,225
+    2. Mumbai: ₹20,348,710
+    3. Kolkata: ₹19,027,895
+
+=== REPORT REQUIREMENTS ===
+Write the report with these sections:
+1. Executive Summary (3-4 sentences)
+2. Revenue Performance Analysis
+3. Product Performance Highlights
+4. Regional Performance Analysis
+5. Key Findings & Anomalies
+6. Strategic Recommendations (at least 3)
+7. Conclusion
+
+Use professional business language.
+Format with clear section headings.
+Make it sound like a real company report.
